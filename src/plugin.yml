@@ -1,9 +1,6 @@
 name: ChatHighlight
-version: 0.1 (MC 1.6.2)
+version: 1.2 (MC 1.6.2 - 1.7.2)
 description: Chathighlight
 author: hatten33
  
 main: net.aerenserve.chathighlight.ChatHighlight
-commands:
-  test:
-    description: Test
